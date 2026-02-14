@@ -1,0 +1,29 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python envs and caches
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node deps and build output
+**/node_modules/
+frontend/build/
+frontend/.cache/
+frontend/.config/
+
+# Environment files
+.env
+**/.env
+
+# Backend local data/models (too large for normal git)
+backend/models/
+
+# Optional local artifacts
+*.log

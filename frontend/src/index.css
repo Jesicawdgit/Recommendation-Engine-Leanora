@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global smooth transitions */
+*,
+*::before,
+*::after {
+  transition: all 0.25s ease;
+}
