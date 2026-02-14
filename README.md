@@ -1,6 +1,3 @@
-Understood — clean, professional, no unnecessary emojis.
-Here is a polished, interview-ready and GitHub-ready README for Learnora.
-
 ---
 
 # Learnora – AI-Powered Learning Assistant
@@ -163,9 +160,3 @@ User → React Frontend → Flask API → SentenceTransformer → FAISS Index �
 Learnora combines semantic search, vector similarity indexing, and metadata-driven generation to create personalized learning roadmaps. It bridges the gap between raw educational content and structured learning guidance by dynamically generating learning paths tailored to each user query.
 
 ---
-
-If you would like, I can also provide:
-
-* A shorter version for public GitHub
-* A resume-ready 4–5 line project description
-* A technical architecture diagram version for documentation
